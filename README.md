@@ -7,7 +7,7 @@
 
 <h2>COMO INSTALAR</h2>
 <p>Primeiramente, você irá precisar utilizar o NetBeans IDE para abrir o projeto, certifique-se também de instalar em sua maquina o Mysql-Workbench e utilizar este código na criação de seu BD:</p>
-<p>
+<h5>
 CREATE DATABASE dbstore;
 USE dbstore;
  
@@ -33,8 +33,8 @@ CREATE TABLE Produtos(
 );
 
 INSERT INTO dbstore.Categorias (nome) VALUES ('Ferragem'),('Eletrica'),('Hidraulica');
- </p>
-<p>Após a criação do BD acima, abra seu NetBeans, abra o projeto CRUD e rode a aplicação. NOTA: em caso de erro de senha do mysql, altere a senha em util>FabricaConexao colocando sua senha do mysql cadastrado! </p>
+ </h5>
+<p>Após a criação do BD acima, abra seu NetBeans, abra o projeto CRUD e rode a aplicação. NOTA: Caso de mensagem de erro pela ausencia de senha do mysql em sua maquina, altere a senha em util>FabricaConexao colocando a senha que você cadastrou na instalação do mysql! </p>
 
 <h2>ADICIONAR PRODUTO</h2>
 <p>Para cadastrar no banco de dados o produto, é necessário preencher as colunas vazias e clicar no botão "Adicionar novo" (é possível fazer um cadastro rápido preenchendo as colunas: "Nome" e "Valor de venda". Não é possível colocar caracter em colunas especificas.)</p>
