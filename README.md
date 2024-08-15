@@ -49,3 +49,9 @@ INSERT INTO dbstore.Categorias (nome) VALUES ('Ferragem'),('Eletrica'),('Hidraul
 <p>Para remover um produto cadastrado é necessário clicar na tabela o produto desejado e clicar no botão "Excluir"</p>
 <img src="https://github.com/user-attachments/assets/13d79f08-ade4-48f3-bd20-ac9f08c39bce" alt="">
 
+<h2>LIMPAR</h2>
+<p>O botão "Limpar" irá limpar todas as colunas.</p>
+
+<h2>RECARREGAR TABELA</h2>
+<p>O botão "Recarregar tabela" atualiza a tabela do programa. </p>
+
