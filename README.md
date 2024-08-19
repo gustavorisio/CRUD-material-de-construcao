@@ -42,7 +42,7 @@ INSERT INTO dbstore.Categorias (nome) VALUES ('Ferragem'),('Eletrica'),('Hidraul
 <img src="https://github.com/user-attachments/assets/98bd1d3c-f0ba-4d0b-8098-b6b2f361391a" alt="">
 
 <h2>ATUALIZAR PRODUTO</h2>
-<p>É possível atualizar um produto já cadastrado após utilizar a função "Buscar produto por código ID". Logo após fazer as alterações, clique no botão "Atualizar". </p>
+<p>É possível atualizar um produto já cadastrado após utilizar a função "Buscar produto por código ID". Logo após fazer as alterações nos campos desejados, clique no botão "Atualizar". </p>
 <img src="https://github.com/user-attachments/assets/7e1bd4e5-c28f-46bf-b4a0-13c3fb47ef79" alt="">
 
 <h2>REMOVER PRODUTO</h2>
@@ -51,6 +51,9 @@ INSERT INTO dbstore.Categorias (nome) VALUES ('Ferragem'),('Eletrica'),('Hidraul
 
 <h2>LIMPAR</h2>
 <p>O botão "Limpar" irá limpar todas as colunas.</p>
+
+<h2>BUSCAR POR ID</h2>
+<p>O botão "Buscar" irá buscar o ID do produto digitado pelo usuário e atualizará todos os campos correspondentes. É possível usar o atualizar produto, verifique a função acima.</p>
 
 <h2>RECARREGAR TABELA</h2>
 <p>O botão "Recarregar tabela" atualiza a tabela do programa. </p>
