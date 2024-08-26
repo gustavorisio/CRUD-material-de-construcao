@@ -1,7 +1,7 @@
 # CRUD-material-de-construcao
 
 <h2>Seja bem vindo(a) ao meu repositório!</h2>
-<h4>Este projeto foi desenvolvido por mim durante a avaliação de POO de Engenharia de Software. Este é um CRUD simples com todas as funções funcionais. Você poderá visualizar, editar e até compartilhar!</h4>
+<h4>Este projeto foi desenvolvido por mim durante a avaliação de POO de Engenharia de Software. Este é um CRUD simples programado em Java utlizando POO com todas as suas funcionalidades funcionais.</h4>
 <h4>Funções:</h4> <p>Adicionar_produto  |  Atualizar_produto  |  Limpar  |  Excluir_produto  |  Buscar_ID  |  Recarregar_tabela</p>
 
 <img src="https://github.com/user-attachments/assets/99ec9aa9-b767-48f9-a273-5e20a8495d72" alt="">
