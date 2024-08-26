@@ -46,14 +46,14 @@ INSERT INTO dbstore.Categorias (nome) VALUES ('Ferragem'),('Eletrica'),('Hidraul
 <img src="https://github.com/user-attachments/assets/7e1bd4e5-c28f-46bf-b4a0-13c3fb47ef79" alt="">
 
 <h2>REMOVER PRODUTO</h2>
-<p>Para remover um produto cadastrado é necessário clicar na tabela o produto desejado e clicar no botão "Excluir"</p>
+<p>Para remover um produto cadastrado é necessário clicar em um produto desejado da tabela e clicar no botão "Excluir".</p>
 <img src="https://github.com/user-attachments/assets/13d79f08-ade4-48f3-bd20-ac9f08c39bce" alt="">
 
 <h2>LIMPAR</h2>
-<p>O botão "Limpar" irá limpar todas as colunas.</p>
+<p>O botão "Limpar" irá limpar todas as colunas preenchidas.</p>
 
 <h2>BUSCAR POR ID</h2>
-<p>O botão "Buscar" irá buscar o ID do produto digitado pelo usuário e atualizará todos os campos correspondentes. É possível usar o atualizar produto, verifique a função acima.</p>
+<p>O botão "Buscar" irá buscar o ID do produto digitado pelo usuário e atualizará todas as colunas correspondentes. Além de visualizar, é possível atualizar o produto alterando as colunas e utilizando a função "Atualizar Produto".</p>
 
 <h2>RECARREGAR TABELA</h2>
 <p>O botão "Recarregar tabela" atualiza a tabela do programa. </p>
