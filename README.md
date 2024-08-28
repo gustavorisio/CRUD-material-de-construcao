@@ -56,5 +56,7 @@ INSERT INTO dbstore.Categorias (nome) VALUES ('Ferragem'),('Eletrica'),('Hidraul
 <p>O botão "Buscar" irá buscar o ID do produto digitado pelo usuário e atualizará todas as colunas correspondentes. Além de visualizar, é possível atualizar o produto alterando as colunas e utilizando a função "Atualizar Produto".</p>
 
 <h2>RECARREGAR TABELA</h2>
-<p>O botão "Recarregar tabela" atualiza a tabela do programa. </p>
+<p>O botão "Recarregar tabela" atualiza a lista tabela de todos os produtos cadastrados  </p>
+
+
 
